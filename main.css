@@ -76,8 +76,9 @@ main
 
 .mensaje > p
 {
-    font-size: 30px;
+    font-size: 23px;
     max-width: 400px;
+    height: 338px;
     color: var(--color-secundario);
     font-style: italic;
     background-color: var(--color-principal);
@@ -87,8 +88,8 @@ main
 
 .mensaje > img
 {
-    width: 350px;
-    height: 300px;
+    width: 400px;
+    height: 338px;
     margin-left: 25px;
     border-radius: 20px;
 }
